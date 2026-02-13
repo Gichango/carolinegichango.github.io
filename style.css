@@ -86,4 +86,27 @@ nav a:hover {
 .social-icons a:hover {
     color: #162d66;
 }
+.skill {
+    margin-bottom: 20px;
+}
+
+.skill p {
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.progress {
+    background-color: #e0e0e0;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 12px;
+}
+
+.progress-bar {
+    height: 100%;
+    background-color: #1f3c88;
+    border-radius: 20px;
+    transition: width 1s ease-in-out;
+}
+
 
