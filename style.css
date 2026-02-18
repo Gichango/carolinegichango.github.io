@@ -173,6 +173,26 @@ nav a:hover {
   color: #1f3c88;
   margin-bottom: 10px;
 }
+.resume-section {
+  margin-bottom: 40px;   /* space between sections */
+}
+
+.resume-section h3 {
+  margin-top: 25px;
+  margin-bottom: 10px;
+  color: #1f3c88;
+}
+
+.resume-section ul {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  line-height: 1.7;     /* improves readability */
+}
+
+.resume-section li {
+  margin-bottom: 6px;  /* space between bullet points */
+}
+
 
 
 
