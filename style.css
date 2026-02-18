@@ -108,5 +108,14 @@ nav a:hover {
     border-radius: 20px;
     transition: width 1s ease-in-out;
 }
+.profile-pic {
+  width: 140px;       /* ideal for corporate header */
+  height: 140px;      /* keep same as width */
+  border-radius: 50%; /* circle */
+  object-fit: cover;  /* crops nicely */
+  border: 3px solid #e5e7eb;
+  margin: 10px 0;
+}
+
 
 
